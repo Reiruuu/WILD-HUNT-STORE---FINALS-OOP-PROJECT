@@ -1,9 +1,0 @@
-ITEM
-Health Potion
-Consumable
-12
-WEAPON
-Amethyst Blade
-Sword
-20
-15
