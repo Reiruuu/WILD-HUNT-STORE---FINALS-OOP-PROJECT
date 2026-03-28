@@ -16,5 +16,3 @@ if Terminal cant find g++
     Step 2 : g++  main.cpp -o WildHunt.exe
     Step 3 : ./WildHunt.exe / "WildHunt.exe"
 
-
-VIDEO LINK: https://drive.google.com/drive/folders/1AD2eeZDg6XkzA06HquRy7-2b7v8Z9zOE?usp=sharing
